@@ -39,3 +39,4 @@ else { console.log("both ") }
 let voter = 45;
 let result = voter >= 18 ? "adult" : "child";
 console.log(result);
+// largest of two numbers
